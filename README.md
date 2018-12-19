@@ -1,5 +1,5 @@
 # Simulation-of-Directory-based-Cache-Coherence-protocol
-make clean
+>make clean
 
 >make
 
