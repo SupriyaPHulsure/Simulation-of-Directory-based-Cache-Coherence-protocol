@@ -26,9 +26,9 @@ make clean
 make
 ```
 ```
-./Cache_Coherence TraceFileName
+./Cache_Coherence tracefiles/TraceFileName
 ```
 If debug version:
 ```
-./Cache_Coherence TraceFileName -d
+./Cache_Coherence tracefiles/TraceFileName -d
 ```
